@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sylvester,</h1>
-<h3 align="center"> ❤️ I love Flutter and Dart ❤️</h3>
+<h1 align="start">Hi 👋, I'm Sylvester,</h1>
+<h3 align="start"> ❤️ I love Flutter and Dart ❤️</h3>
 <h3 align="start">🔭 I’m currently working with dotnet maui</h3>
 <h3 align="start"> 🤔 I’m looking for help with C# markup on Maui </h3>
 <h3 align="start"> 😄 Pronouns: he/him/his </h3>
