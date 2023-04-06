@@ -1,4 +1,3 @@
-
 👋, hi there
 <Hr>
 i ❤️ flutter and dart
@@ -20,11 +19,4 @@ github stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=samh7&theme=gotham&hide_border=true)<br/>
 
 
-<!-- <h3 align="start"> 🤔 I’m looking for help with  Maui and Automation with python </h3> -->
-<!-- <h3 align="start">pronouns: he/him/his </h3> -->
-
-<!-- ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal)
-
- -->
 <Hr>
