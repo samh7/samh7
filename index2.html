@@ -1,27 +1,47 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 
 <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>document</title>
-    <link rel="stylesheet" href="style.css">
+    <title>Code Output</title>
+    <style>
+        body {
+            background-color: #282c34;
+            color: #abb2bf;
+            font-family: "Courier New", Courier, monospace;
+            margin: 0;
+            padding: 0;
+        }
+    
+        .code-output {
+            padding: 20px;
+            white-space: pre-wrap;
+        }
+    
+        .output-line {
+            margin: 0;
+        }
+    
+        .output-line.error {
+            color: #e06c75;
+        }
+    
+        .output-line.success {
+            color: #98c379;
+        }
+    
+        .output-line.warning {
+            color: #d19a66;
+        }
+    
+        .output-line.info {
+            color: #61afef;
+        }
+    </style>
 </head>
 
 <body>
-    <div class="container1">
-    </div>
-    <div class="container2">
-        Adipisci,
-        nemo.
-        Similique
-        dolore
-        laborum
-        magni
-        dolorem
-
-        quidem.
+    <div class="code-output">
+        <p class="output-line">Hello, World!👋</p>
     </div>
 </body>
 
