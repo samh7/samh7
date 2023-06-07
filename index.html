@@ -1,48 +1,183 @@
-<!DOCTYPE html>
-<html lang="en">
+<html>
 
 <head>
+    <title>index</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>document</title>
-    <link rel="stylesheet" href="style.css">
 </head>
 
 <body>
-    <!--
-    <div class="container1">
+    <div id='content'>
+        <pre><code class="hljs elixir language-elixir"><span class="hljs-class"><span class="hljs-keyword">defmodule</span> <span class="hljs-title">README</span></span> <span class="hljs-keyword">do</span>
+<span class="hljs-function"><span class="hljs-keyword">def</span> <span class="hljs-title">md</span></span> <span
+    class="hljs-keyword">do</span>
+<span class="hljs-string">&quot;Hello, World!👋&quot;</span> |&gt; <span class="hljs-title class_">IO</span>.puts
+<span class="hljs-keyword">end</span>
+<span class="hljs-keyword">end</span>
+
+<span class="hljs-title class_">README</span>.md
+</code></pre>
+        <p><br>
+            <hr><br><br>github stats:<br><br><img
+                src="https://github-readme-stats.vercel.app/api?username=samh7&show_icons=true&theme=gotham"
+                alt="samh7" /><img
+                src="https://github-readme-streak-stats.herokuapp.com/?user=samh7&theme=gotham&hide_border=true"
+                alt="" /><br />
+            <hr>
+        </p>
+
     </div>
-    <div class="container2">
-            Adipisci,
-            nemo.
-            Similique
-            dolore
-            laborum
-            magni
-            dolorem
+    <style type='text/css'>
+        @import url('https://fonts.googleapis.com/css2?family=Lilita+One&display=swap');
 
-            quidem.
-    </div>
--->
-<md-block>
+        .container1 {
+            position: fixed;
+            top: 250px;
+            /* transform: translate(-50%, -50%); */
+            font-size: 110px;
+            transform: rotate(-90deg);
+        }
 
-    ```elixir
-    defmodule README do
-    def md do
-    "Hello, World!👋" |> IO.puts
-    end
-    end
+        .container2 {
+            position: fixed;
+            top: 50%;
+            left: 70%;
+            transform: translate(-50%, -50%);
+            overflow: hidden;
+            font-size: 50px;
+        }
 
-    README.md
-    ```
-    <br>
-    <hr><br><br>github stats:<br><br><img
-        src="https://github-readme-stats.vercel.app/api?username=samh7&show_icons=true&theme=gotham"
-        alt="samh7" />![](https://github-readme-streak-stats.herokuapp.com/?user=samh7&theme=gotham&hide_border=true)<br />
-    <hr>
+        body {
+            font-family: 'Lilita One', cursive;
+            font-size: 50px;
+            color: #FFECD1;
+            background-color: #090C08;
+            container-name: center;
+        }
 
-</md-block>
+        @media screen and (max-width: 450px) {
+            .container1 {
+                font-size: 90px;
+                left: -20px
+            }
+
+            .container2 {
+                font-size: 40px;
+                /* left: -20px */
+            }
+        }
+
+        @media screen and (max-width: 350px) {
+            .container1 {
+                font-size: 70px;
+                left: -20px
+            }
+
+            .container2 {
+                font-size: 30px;
+                /* left: -20px */
+            }
+        }
+
+        @media screen and (max-width: 250px) {
+            .container1 {
+                font-size: 60px;
+                left: -20px
+            }
+
+            .container2 {
+                font-size: 20px;
+                /* left: -20px */
+            }
+
+        }
+    </style>
+    <style type='text/css'>
+        pre code.hljs {
+            display: block;
+            overflow-x: auto;
+            padding: 1em
+        }
+
+        code.hljs {
+            padding: 3px 5px
+        }
+
+        .hljs {
+            color: #abb2bf;
+            background: #282c34
+        }
+
+        .hljs-comment,
+        .hljs-quote {
+            color: #5c6370;
+            font-style: italic
+        }
+
+        .hljs-doctag,
+        .hljs-formula,
+        .hljs-keyword {
+            color: #c678dd
+        }
+
+        .hljs-deletion,
+        .hljs-name,
+        .hljs-section,
+        .hljs-selector-tag,
+        .hljs-subst {
+            color: #e06c75
+        }
+
+        .hljs-literal {
+            color: #56b6c2
+        }
+
+        .hljs-addition,
+        .hljs-attribute,
+        .hljs-meta .hljs-string,
+        .hljs-regexp,
+        .hljs-string {
+            color: #98c379
+        }
+
+        .hljs-attr,
+        .hljs-number,
+        .hljs-selector-attr,
+        .hljs-selector-class,
+        .hljs-selector-pseudo,
+        .hljs-template-variable,
+        .hljs-type,
+        .hljs-variable {
+            color: #d19a66
+        }
+
+        .hljs-bullet,
+        .hljs-link,
+        .hljs-meta,
+        .hljs-selector-id,
+        .hljs-symbol,
+        .hljs-title {
+            color: #61aeee
+        }
+
+        .hljs-built_in,
+        .hljs-class .hljs-title,
+        .hljs-title.class_ {
+            color: #e6c07b
+        }
+
+        .hljs-emphasis {
+            font-style: italic
+        }
+
+        .hljs-strong {
+            font-weight: 700
+        }
+
+        .hljs-link {
+            text-decoration: underline
+        }
+    </style>
 </body>
 
 </html>
