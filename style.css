@@ -1,7 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Lilita+One&display=swap');
 
 .container1 {
-    top: 64%;
     position: fixed;
     top: 250px;
     /* transform: translate(-50%, -50%); */
@@ -24,4 +23,40 @@ body {
     color: #FFECD1;
     background-color: #090C08;
     container-name: center;
+}
+
+@media screen and (max-width: 450px) {
+    .container1 {
+        font-size: 90px;
+        left: -20px
+    }
+
+    .container2 {
+        font-size: 50px;
+        /* left: -20px */
+    }
+}
+
+@media screen and (max-width: 350px) {
+    .container1 {
+        font-size: 70px;
+        left: -20px
+    }
+
+    .container2 {
+        font-size: 40px;
+        /* left: -20px */
+    }
+}
+
+@media screen and (max-width: 350px) {
+    .container1 {
+        font-size: 70px;
+        left: -20px
+    }
+
+    .container2 {
+        font-size: 40px;
+        /* left: -20px */
+    }
 }
