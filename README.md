@@ -1,7 +1,7 @@
 ```elixir
 defmodule README do
   def md do
-    "Hi There!👋" |> IO.puts
+    "Hello There!👋" |> IO.puts
   end
 end
 
