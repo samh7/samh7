@@ -5,6 +5,6 @@ defmodule samh7.README do
   end
 end
 
-README.md
+samh7.README.md
 ```
 ![](https://github-readme-streak-stats.herokuapp.com/?user=samh7&theme=gotham&hide_border=true)
