@@ -1,5 +1,5 @@
 ```elixir
-defmodule README do
+defmodule samh7.README do
   def md do
     "Hello There!👋" |> IO.puts
   end
