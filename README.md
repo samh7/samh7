@@ -10,23 +10,6 @@ README.md
 ```
 <html>
   <div style="
-      display: flex;
-      justify-content: end;
-      margin: 0px 0 10px 0;
-  ">
-    <button style="
-      background-color: rgb(42, 168, 137);
-      height: 34px;
-      width: 64px;
-      border: none;
-      font-size: 18.4px;
-      border-radius: 6px;
-      color: rgb(12, 16, 20);
-      transform: scale(1.2);
-      margin-right: 6px;
-    ">Run</button>
-  </div>
-  <div style="
       background-color: rgb(238, 234, 231);
       border-radius: 2px;
       border: 1px solid rgb(195, 192, 192);
