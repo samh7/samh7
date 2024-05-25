@@ -1,4 +1,4 @@
-Personal Website: https://samh7.github.io/portfolio/
+[Personal Website](https://samh7.github.io/personal)
 ```elixir
 defmodule README do
   def md do
