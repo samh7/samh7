@@ -1,4 +1,8 @@
-[All your codebase are belong to us](https://github.com/samh7/samh7)
+[Happy Life with the machines...](https://www.youtube.com/watch?v=xvtNS6hbVy4)
+
+![](theVeldt.png)
+<!-- <img src='theVeldt.png'> -->
+
 ```elixir
 defmodule README do
   def md do
