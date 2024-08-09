@@ -1,4 +1,4 @@
-[Happy Life with the machines...]()
+Happy Life with the machines...
 
 ![](theVeldt.png)
 <!-- <img src='theVeldt.png'> -->
