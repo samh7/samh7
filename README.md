@@ -12,4 +12,4 @@ README.md
 <br>
       [![TypingSVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=2AA889&repeat=false&random=false&width=435&lines=%3Aok++++++++++)](https://git.io/typing-svg)    
 
-TELEGRAM: [t.me/s99837338837360](t.me/s99837338837360)
+TELEGRAM: [samh7](https://t.me/s99837338837360)
