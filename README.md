@@ -1,4 +1,4 @@
-[All your base are belong to us](https://github.com/samh7)
+[All your codebase are belong to us](https://github.com/samh7)
 ```elixir
 defmodule README do
   def md do
