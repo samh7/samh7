@@ -1,4 +1,4 @@
-[Happy Life with the machines...](https://www.youtube.com/watch?v=xvtNS6hbVy4)
+[Happy Life with the machines...]()
 
 ![](theVeldt.png)
 <!-- <img src='theVeldt.png'> -->
