@@ -1,6 +1,6 @@
 [portfolio](https://samh7.github.io/simply-portfolio)
 
-[Happy life with the machines](https://m.youtube.com/watch?v=xvtNS6hbVy4&pp=ygUSdGhlIHZlbGR0IGRlYWRtYXU1)
+[Happy life with the machines...](https://m.youtube.com/watch?v=xvtNS6hbVy4&pp=ygUSdGhlIHZlbGR0IGRlYWRtYXU1)
 
 ![](theVeldt.png)
 <!-- <img src='theVeldt.png'> -->
