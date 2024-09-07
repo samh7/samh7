@@ -1,4 +1,4 @@
-[portfolio](https://samh7.github.io/simply-portfolio)
+[portfolio](https://samh7.github.io)
 
 Happy life with the machines...
 
