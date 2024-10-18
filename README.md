@@ -1,4 +1,4 @@
-[portfolio](https://samh7.github.io)
+[portfolio](https://sylvester-sila.netlify.app/)
 
 <!-- <img src='theVeldt.png'> -->
 
