@@ -1,8 +1,5 @@
 [portfolio](https://samh7.github.io)
 
-Happy life with the machines...
-
-![](theVeldt.png)
 <!-- <img src='theVeldt.png'> -->
 
 ```elixir
