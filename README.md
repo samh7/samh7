@@ -61,7 +61,7 @@ Here are some of my full-stack application projects:
 
 ### ⚙️ Other Projects
 
-addition to the above, here are a few other projects I've worked on:
+In addition to the above, here are a few other projects I've worked on:
 
 - [All projects](https://github.com/samh7?tab=repositories)
 
