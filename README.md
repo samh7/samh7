@@ -4,8 +4,8 @@ Welcome to my GitHub! I'm a dedicated developer who loves problem-solving, learn
 
 🔗 You can find me on:
 
-- GitHub: [@samh7](https://github.com/do3e7)
-- LinkedIn: [Sila Mwinzi](https://linkedin.com/in/johndoe)
+- GitHub: [@samh7](https://github.com/samh7)
+- LinkedIn: [Sila Mwinzi](https://linkedin.com/in/sylvester-sila1)
 - Portfolio: [Sila Mwinzi](https://sylvester-sila.netlify.app)
 
 ## 🚀 Tech Stack
