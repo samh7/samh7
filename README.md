@@ -36,7 +36,6 @@ Here are some of the technologies I work with:
 Here are some of my static website projects:
 
 - [Snake Game](https://github.com/samh7/snake-game)
-- [Vindicating Trump](https://github.com/samh7/vindicating-trump)
 - [Music Player](https://github.com/samh7/music_player)
 - [Open in WA](https://github.com/samh7/open-in-wa)
 - [Digital Clock](https://github.com/samh7/digital-clock)
