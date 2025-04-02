@@ -59,4 +59,4 @@ Feel free to reach out if you want to collaborate or chat about technology and d
 
 ## ✨ Stats
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samh7&" alt="samh7" /></p>
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/samh7?cardType=github&theme=gruvbox&preferLogin=false)](https://git.io/awesome-stats-card)
