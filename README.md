@@ -1,6 +1,6 @@
 ### Sylvester Sila Mwinzi
 
-#### Backend Engineer | Full-Stack Developer | DevOps Enthusiast (AI-Ready)
+#### Backend Engineer | Full-Stack Developer | DevOps Enthusiast
 
 #### About Me
 
