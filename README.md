@@ -1,36 +1,113 @@
-### Sylvester Sila Mwinzi
+# 🟡 Sylvester Sila Mwinzi
+```
+Backend Engineer | Full-Stack Developer | DevOps Enthusiast
+Building scalable APIs, real-time systems, and intelligent solutions
+```
 
-#### Backend Engineer | Full-Stack Developer | DevOps Enthusiast
+## About Me
+Software engineer focused on backend development with a strong foundation in building **scalable APIs**, **real-time systems**, and **full-stack applications**. I specialize in modern frameworks like NestJS and React, with deep expertise in AI/LLM integration using LangChain, RAG, and vector databases to deliver intelligent solutions.
 
-#### About Me
+## 🏗️ System Architecture Experience
 
-I am a software engineer focused on the backend, with a strong background in building scalable APIs, real-time systems, and full-stack applications. My skills include NestJS, React, PostgreSQL, WebSockets, and Docker. I have a deep interest in AI/LLM integration and have hands-on experience with technologies like LangChain, RAG, CrewAI, and vector databases to deliver intelligent solutions.
+<details>
+<summary><strong>NestJS Backend Patterns</strong></summary>
 
----
+- Dependency injection and modular architecture with feature modules
+- Repository pattern implementation with TypeORM
+- Custom decorators, guards, and interceptors for cross-cutting concerns
+- Middleware chains with CORS, Helmet security, and rate limiting
 
-#### Core Skills
+</details>
 
-* **Backend & Frameworks:** NestJS, Node.js, ASP.NET, Express.js, Elixir, PHP.
-* **Frontend & UI:** React, Next.js, Angular, TypeScript, TailwindCSS.
-* **Databases:** PostgreSQL, MySQL, MongoDB, SQLite. I'm also familiar with query optimization, schema design, indexing, and migrations.
-* **APIs & Protocols:** REST, GraphQL, gRPC, WebSockets, tRPC.
-* **DevOps & Tooling:** Docker, GitHub Actions, Netlify, Linux CI/CD pipelines, container orchestration, and cloud deployments.
-* **AI/LLM Enablement:** Prompt engineering, LangChain, RAG, CrewAI, vector databases, and Gemini API integration.
-* **Practices:** Microservices, clean architecture, SOLID, code reviews, observability/logging, and version control (Git/GitHub).
+<details>
+<summary><strong>React Frontend Architecture</strong></summary>
 
----
+- Component composition and custom hooks for state management
+- Context API for global state and HOCs for reusability
+- Compound component patterns and render props for complex UI
+- React Query for server state and optimistic updates
 
-#### Selected Projects
+</details>
 
-* **Laptop Recommendation System:** An intelligent recommendation website built with Next.js and TailwindCSS. It integrates the Gemini API and LangChain to provide conversational assistance.
-* **School Management System:** A full-featured platform for student enrollment, grading, and reporting. The project uses NestJS, React, and TailwindCSS. It features secure role-based access with JWT.
-* **Attendance Management System:** A real-time attendance platform with live updates, reporting, and analytics powered by WebSockets. The stack includes NestJS, React, and TailwindCSS.
-* **Messenger App:** A real-time messaging application with groups and typing indicators. It uses Angular, NestJS, and MySQL, with RabbitMQ integration for resilient communication.
+<details>
+<summary><strong>Database & API Design</strong></summary>
 
----
+- Normalized PostgreSQL schemas with indexing and migrations
+- RESTful APIs, GraphQL resolvers with DataLoader optimization
+- WebSocket gateways for real-time features
+- Redis caching and session management
 
-#### Get in Touch
+</details>
 
-* **Email:** sylvestersila6@gmail.com
-* **GitHub:** github.com/samh7
-* **Portfolio:** sylvester-sila.netlify.app 
+<details>
+<summary><strong>Message Queue Integration</strong></summary>
+
+- RabbitMQ work queues, pub/sub patterns, and dead letter queues
+- Event-driven architecture for decoupled communication
+- Saga pattern for distributed transaction management
+
+</details>
+
+<details>
+<summary><strong>Microservices & DevOps</strong></summary>
+
+- Containerized services with Docker and health checks
+- Circuit breaker patterns for fault tolerance
+- Structured logging with correlation IDs and observability
+
+</details>
+
+## 🌿 Tech Stack
+
+<details>
+<summary><strong>View Tech Stack</strong></summary>
+
+```yaml
+backend:
+  frameworks: [nestjs, nodejs, aspnet, expressjs, elixir, php]
+  
+frontend:
+  libraries: [react, nextjs, angular]
+  languages: [typescript]
+  styling: [tailwindcss]
+databases:
+  primary: [postgresql, mysql, mongodb, sqlite]
+  orm: [typeorm, prisma, sequelize]
+  expertise: [query_optimization, schema_design, indexing, migrations, seeders]
+apis:
+  protocols: [rest, graphql, grpc, websockets, trpc]
+  
+message_queues:
+  brokers: [rabbitmq, redis, apache_kafka]
+  patterns: [pub_sub, work_queues, routing, rpc]
+  
+devops:
+  containerization: [docker, docker_compose]
+  ci_cd: [github_actions, netlify]
+  infrastructure: [linux, cloud_deployments, container_orchestration]
+security:
+  middleware: [cors, helmet, rate_limiting]
+  authentication: [jwt, oauth, passport]
+ai_stack:
+  frameworks: [langchain, rag, crewai]
+  databases: [vector_databases]
+  apis: [gemini_api]
+  skills: [prompt_engineering]
+practices:
+  architecture: [microservices, clean_architecture, solid, event_driven]
+  patterns: [repository, factory, observer, cqrs]
+  processes: [code_reviews, observability, logging]
+  version_control: [git, github]
+```
+
+</details>
+
+## 📫 Connect
+```yaml
+contact:
+  email: sylvestersila6@gmail.com
+  github: github.com/samh7
+  portfolio: sylvester-sila.netlify.app
+```
+
+*How many more features can we add to C#?*
