@@ -1,13 +1,26 @@
 # 🟡 Sylvester Sila Mwinzi
+
 ```
-Backend Engineer | Full-Stack Developer | DevOps Enthusiast
+Backend Engineer | Full Stack Developer | DevOps Enthusiast
 Building scalable APIs, real-time systems, and intelligent solutions
 ```
 
 ## About Me
-Software engineer focused on backend development with a strong foundation in building **scalable APIs**, **real-time systems**, and **full-stack applications**. I specialize in modern frameworks like NestJS and React, with deep expertise in AI/LLM integration using LangChain, RAG, and vector databases to deliver intelligent solutions.
+
+I'm a software engineer focused on backend development with a strong foundation in building **scalable APIs**, **real-time systems**, and **fault-tolerant applications**. I specialize in modern frameworks like NestJS, Phoenix, and React, with deep expertise in functional programming and AI/LLM integration. I leverage LangChain, RAG, and vector databases to deliver intelligent solutions that meet complex business requirements.
 
 ## 🏗️ System Architecture Experience
+
+<details>
+<summary><strong>Phoenix/Elixir Backend Patterns</strong></summary>
+
+- Actor model concurrency with GenServers and Supervisors for fault tolerance
+- Phoenix Channels for real-time WebSocket connections at scale
+- Ecto schemas with changesets for data validation and database interactions
+- OTP applications with supervision trees for self-healing systems
+- Pattern matching and functional programming principles for robust code
+
+</details>
 
 <details>
 <summary><strong>NestJS Backend Patterns</strong></summary>
@@ -34,7 +47,7 @@ Software engineer focused on backend development with a strong foundation in bui
 
 - Normalized PostgreSQL schemas with indexing and migrations
 - RESTful APIs, GraphQL resolvers with DataLoader optimization
-- WebSocket gateways for real-time features
+- Phoenix Channels and WebSocket gateways for real-time features
 - Redis caching and session management
 
 </details>
@@ -45,6 +58,7 @@ Software engineer focused on backend development with a strong foundation in bui
 - RabbitMQ work queues, pub/sub patterns, and dead letter queues
 - Event-driven architecture for decoupled communication
 - Saga pattern for distributed transaction management
+- Elixir's built-in message passing for lightweight process communication
 
 </details>
 
@@ -64,38 +78,45 @@ Software engineer focused on backend development with a strong foundation in bui
 
 ```yaml
 backend:
-  frameworks: [nestjs, nodejs, aspnet, expressjs, elixir, php]
+  frameworks: [phoenix, elixir, nestjs, aspnet, php]
+  languages: [elixir, typescript, javascript, c#, php]
   
 frontend:
   libraries: [react, nextjs, angular]
   languages: [typescript]
   styling: [tailwindcss]
+
 databases:
-  primary: [postgresql, mysql, mongodb, sqlite]
-  orm: [typeorm, prisma, sequelize]
+  primary: [postgresql, mysql, sqlite]
+  orm: [ecto, typeorm, prisma]
   expertise: [query_optimization, schema_design, indexing, migrations, seeders]
+
 apis:
-  protocols: [rest, graphql, grpc, websockets, trpc]
+  protocols: [rest, graphql, grpc, websockets, phoenix_channels, trpc]
   
 message_queues:
-  brokers: [rabbitmq, redis, apache_kafka]
-  patterns: [pub_sub, work_queues, routing, rpc]
+  brokers: [rabbitmq, redis]
+  patterns: [pub_sub, work_queues, routing, rpc, actor_model]
   
 devops:
-  containerization: [docker, docker_compose]
+  containerization: [docker]
   ci_cd: [github_actions, netlify]
-  infrastructure: [linux, cloud_deployments, container_orchestration]
+  infrastructure: [linux, cloud_deployments]
+
 security:
   middleware: [cors, helmet, rate_limiting]
-  authentication: [jwt, oauth, passport]
+  authentication: [jwt, oauth, passport, guardian]
+
 ai_stack:
-  frameworks: [langchain, rag, crewai]
+  frameworks: [langchain, rag, crewai, grow, openai]
   databases: [vector_databases]
   apis: [gemini_api]
   skills: [prompt_engineering]
+
 practices:
-  architecture: [microservices, clean_architecture, solid, event_driven]
-  patterns: [repository, factory, observer, cqrs]
+  architecture: [microservices, clean_architecture, solid, event_driven, otp_principles]
+  patterns: [repository, factory, observer, cqrs, genserver, supervision_trees]
+  paradigms: [functional_programming, actor_model, fault_tolerance]
   processes: [code_reviews, observability, logging]
   version_control: [git, github]
 ```
@@ -103,6 +124,7 @@ practices:
 </details>
 
 ## 📫 Connect
+
 ```yaml
 contact:
   email: sylvestersila6@gmail.com
@@ -110,4 +132,4 @@ contact:
   portfolio: sylvester-sila.netlify.app
 ```
 
-*How many more features can we add to C#?*
+*Building concurrent, fault-tolerant systems one GenServer at a time.*
