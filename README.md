@@ -1,135 +1,40 @@
-# 🟡 Sylvester Sila Mwinzi
+# 🟡 Sylvester - Full Stack Developer
 
-```
-Backend Engineer | Full Stack Developer | DevOps Enthusiast
-Building scalable APIs, real-time systems, and intelligent solutions
-```
-
+Specializing in scalable APIs, real-time systems, and modern web applications
 ## About Me
 
-I'm a software engineer focused on backend development with a strong foundation in building **scalable APIs**, **real-time systems**, and **fault-tolerant applications**. I specialize in modern frameworks like NestJS, Phoenix, and React, with deep expertise in functional programming and AI/LLM integration. I leverage LangChain, RAG, and vector databases to deliver intelligent solutions that meet complex business requirements.
+I'm a software engineer focused on backend development with a strong foundation in building **scalable APIs**, **real-time systems**, and **fault-tolerant applications**. I specialize in modern frameworks like **NestJS** and **React**. On the backend, I leverage NestJS's powerful dependency injection and modular architecture to build enterprise-grade microservices, GraphQL and REST APIs, and real-time features using WebSockets and message brokers. On the frontend, I craft performant, type-safe React applications using modern hooks, advanced state management patterns, and component composition. I focus on writing clean, maintainable code that scales with business needs, delivering robust solutions across the full stack.
 
-## 🏗️ System Architecture Experience
+## 🏗️ Technical Expertise
 
-<details>
-<summary><strong>Phoenix/Elixir Backend Patterns</strong></summary>
+### Backend Development
+- **NestJS**: Dependency injection, modular architecture, custom decorators, guards, and interceptors
+- **API Design**: RESTful APIs, GraphQL with DataLoader optimization, WebSocket gateways
+- **Databases**: PostgreSQL, MySQL, SQLite with TypeORM and Prisma
+- **Message Queues**: RabbitMQ and Redis for pub/sub, work queues, and RPC patterns
 
-- Actor model concurrency with GenServers and Supervisors for fault tolerance
-- Phoenix Channels for real-time WebSocket connections at scale
-- Ecto schemas with changesets for data validation and database interactions
-- OTP applications with supervision trees for self-healing systems
-- Pattern matching and functional programming principles for robust code
+### Frontend Development
+- **React**: Component composition, custom hooks, Context API, compound component patterns
+- **State Management**: React Query for server state and optimistic updates
+- **Styling**: Tailwind CSS
+- **Frameworks**: Next.js, Angular
 
-</details>
+### DevOps & Architecture
+- **Containerization**: Docker with health checks
+- **CI/CD**: GitHub Actions, Netlify
+- **Architecture**: Microservices, clean architecture, SOLID principles, event-driven design
+- **Patterns**: Repository, factory, observer, CQRS
+- **Security**: JWT, OAuth, CORS, Helmet, rate limiting
 
-<details>
-<summary><strong>NestJS Backend Patterns</strong></summary>
+### AI Integration
+- **Frameworks**: LangChain, RAG, CrewAI, OpenAI
+- **Databases**: Vector databases
+- **Skills**: Prompt engineering with Gemini API
 
-- Dependency injection and modular architecture with feature modules
-- Repository pattern implementation with TypeORM
-- Custom decorators, guards, and interceptors for cross-cutting concerns
-- Middleware chains with CORS, Helmet security, and rate limiting
-
-</details>
-
-<details>
-<summary><strong>React Frontend Architecture</strong></summary>
-
-- Component composition and custom hooks for state management
-- Context API for global state and HOCs for reusability
-- Compound component patterns and render props for complex UI
-- React Query for server state and optimistic updates
-
-</details>
-
-<details>
-<summary><strong>Database & API Design</strong></summary>
-
-- Normalized PostgreSQL schemas with indexing and migrations
-- RESTful APIs, GraphQL resolvers with DataLoader optimization
-- Phoenix Channels and WebSocket gateways for real-time features
-- Redis caching and session management
-
-</details>
-
-<details>
-<summary><strong>Message Queue Integration</strong></summary>
-
-- RabbitMQ work queues, pub/sub patterns, and dead letter queues
-- Event-driven architecture for decoupled communication
-- Saga pattern for distributed transaction management
-- Elixir's built-in message passing for lightweight process communication
-
-</details>
-
-<details>
-<summary><strong>Microservices & DevOps</strong></summary>
-
-- Containerized services with Docker and health checks
-- Circuit breaker patterns for fault tolerance
-- Structured logging with correlation IDs and observability
-
-</details>
-
-## 🌿 Tech Stack
-
-<details>
-<summary><strong>View Tech Stack</strong></summary>
-
-```yaml
-backend:
-  frameworks: [phoenix, elixir, nestjs, aspnet, php]
-  languages: [elixir, typescript, javascript, c#, php]
-  
-frontend:
-  libraries: [react, nextjs, angular]
-  languages: [typescript]
-  styling: [tailwindcss]
-
-databases:
-  primary: [postgresql, mysql, sqlite]
-  orm: [ecto, typeorm, prisma]
-  expertise: [query_optimization, schema_design, indexing, migrations, seeders]
-
-apis:
-  protocols: [rest, graphql, grpc, websockets, phoenix_channels, trpc]
-  
-message_queues:
-  brokers: [rabbitmq, redis]
-  patterns: [pub_sub, work_queues, routing, rpc, actor_model]
-  
-devops:
-  containerization: [docker]
-  ci_cd: [github_actions, netlify]
-  infrastructure: [linux, cloud_deployments]
-
-security:
-  middleware: [cors, helmet, rate_limiting]
-  authentication: [jwt, oauth, passport, guardian]
-
-ai_stack:
-  frameworks: [langchain, rag, crewai, grow, openai]
-  databases: [vector_databases]
-  apis: [gemini_api]
-  skills: [prompt_engineering]
-
-practices:
-  architecture: [microservices, clean_architecture, solid, event_driven, otp_principles]
-  patterns: [repository, factory, observer, cqrs, genserver, supervision_trees]
-  paradigms: [functional_programming, actor_model, fault_tolerance]
-  processes: [code_reviews, observability, logging]
-  version_control: [git, github]
-```
-
-</details>
+---
 
 ## 📫 Connect
 
-```yaml
-contact:
-  email: sylvestersila6@gmail.com
-  github: github.com/samh7
-  portfolio: sylvester-sila.netlify.app
-```
-
-*Building concurrent, fault-tolerant systems one GenServer at a time.*
+**Email:** sylvestersila6@gmail.com  
+**GitHub:** [github.com/samh7](https://github.com/samh7)  
+**Portfolio:** [sylvester-sila.netlify.app](https://sylvester-sila.netlify.app)
